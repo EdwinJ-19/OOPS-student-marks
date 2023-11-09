@@ -1,0 +1,15 @@
+student details
+-name
+-location
+-class(standard)
+-date of birth
+-marks each subject
+-gpa
+
+student increase marks
+-increment
+-reset to 0/interuppted
+
+student decrease marks
+-decrement
+-reset to 0/interuppted
